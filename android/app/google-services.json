@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "225442748819",
+    "project_id": "lab-project-40b3b",
+    "storage_bucket": "lab-project-40b3b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:225442748819:android:7a03f13a7caddd2ea4b066",
+        "android_client_info": {
+          "package_name": "com.example.crash_lab"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0Glg2Kto-JYIoae_RSXmvECLGIHfPIzk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
