@@ -1,3 +1,4 @@
+/* ABCD AUTO-FIX START */
 package com.example.crash_lab
 
 import androidx.annotation.NonNull
@@ -22,3 +23,5 @@ class MainActivity: FlutterActivity() {
         }
     }
 }
+
+/* ABCD AUTO-FIX END */
